@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    border: solid lightgray 5px;
+    width: 75%;
+    border-radius: 6px;
+     
+}
+
+h1 {
+    text-align: center;
+    font-size: ;
+    color: white;
+    padding: 8px;
+    background-color: red;
+    border-color: lightgray;
+    margin-top: auto;
+    border-radius: 4px;
+    
+}
+
+p {
+    text-align: center;
+    line-height: 2px;
+    font-size: 2em;
+    padding: 7%;
+    background-color: red;
+    margin-top: -7%;
+    border-radius: 4px;
+    color: white; 
+
+}
+
+h3 {
+    background-color: white;
+    text-align: center;
+    padding: 2px;
+    line-height: 5%;
+    font-size: 2em;
+    font-style: italic;
+
+}
+
+footer {
+    background-color: red;
+    padding: 7%;
+    border-radius: 5px;
+ 
+}
